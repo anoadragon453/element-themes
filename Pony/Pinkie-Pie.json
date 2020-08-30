@@ -1,0 +1,25 @@
+{
+    "name": "Pinkie Pie Theme",    
+    "is_dark": false,              
+    "colors": {                    
+        "accent-color": "#4ba1c4", 
+        "primary-color": "#f9b8d2",
+        "warning-color": "#f04747",
+        
+        "sidebar-color": "#f9b8d2",
+        "roomlist-background-color": "#ea80b0",
+        "roomlist-text-color": "#FFFFFF",
+        "roomlist-text-secondary-color": "#99AAB5",
+        "roomlist-highlights-color": "#db6b9d",
+        "roomlist-separator-color": "#c01b75",
+        
+        "timeline-background-color": "#f9b8d2",
+        "timeline-text-color": "#000000",
+        "timeline-text-secondary-color": "#99AAB5",
+        "timeline-highlights-color": "#ed93b7",
+        "reaction-row-button-selected-bg-color": "#7fd2f4",
+        
+        "username-colors": ["#368bd6", "#ac3ba8", "#03b381", "#e64f7a", "#ff812d", "#2dc2c5", "#5c56f5", "#74d12c"],
+        "avatar-background-colors": ["#0DBD8B", "#368bd6", "#ac3ba8"]
+    }
+}
